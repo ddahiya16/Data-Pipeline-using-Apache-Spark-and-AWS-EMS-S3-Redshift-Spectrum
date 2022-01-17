@@ -1,4 +1,4 @@
-# Data-Pipeline-using-Apache-Spark-and-AWS-EMS-S3-Redshift-Spectrum-
+# Data-Pipeline-using-Apache-Spark-and-AWS-EMS-S3-Redshift-Spectrum
 
 ## Objective
 
