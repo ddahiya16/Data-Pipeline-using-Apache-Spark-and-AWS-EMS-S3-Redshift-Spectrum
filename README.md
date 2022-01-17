@@ -1,1 +1,10 @@
 # Data-Pipeline-using-Apache-Spark-and-AWS-EMS-S3-Redshift-Spectrum-
+
+## Objective
+
+We will be using Airflow to orchestrate the following tasks:
+
+    1. Classifying movie reviews with Apache Spark.
+    2. Loading the classified movie reviews into the data warehouse.
+    3. Extracting user purchase data from an OLTP database and loading it into the data warehouse.
+    4. Joining the classified movie review data and user purchase data to get user behavior metric data.
