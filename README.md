@@ -2,7 +2,9 @@
 
 ## Pre-Requisites(Mac OS)
 
-1. Docker
+### 1. Docker
+https://docs.docker.com/engine/install/
+
 ### 2. PostgresSQL (Using Brew)
 
 Installing Brew
@@ -15,8 +17,13 @@ Updating Brew
 Installing Postgres
 -- brew install postgresql
 
-3. AWS
-4. AWS CLI 
+### 3. AWS
+
+### 4. AWS CLI
+Installing CLI
+
+-- curl "https://awscli.amazonaws.com/AWSCLIV2.pkg" -o "AWSCLIV2.pkg"
+-- sudo installer -pkg AWSCLIV2.pkg -target /
 
 ## Objective
 
