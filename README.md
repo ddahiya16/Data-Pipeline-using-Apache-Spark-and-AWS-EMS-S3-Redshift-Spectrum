@@ -3,7 +3,18 @@
 ## Pre-Requisites(Mac OS)
 
 1. Docker
-2. PostgresSQL
+### 2. PostgresSQL (Using Brew)
+
+Installing Brew
+-- /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+Updating Brew
+-- brew doctor
+-- brew update
+
+Installing Postgres
+-- brew install postgresql
+
 3. AWS
 4. AWS CLI 
 
